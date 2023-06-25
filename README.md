@@ -16,3 +16,5 @@ Data yang digunakan dalam analisis ini terdiri dari variabel-variabel berikut:
 * Regresi Poisson: Dilakukan analisis regresi Poisson untuk menguji hubungan antara faktor-faktor yang disebutkan sebelumnya dengan jumlah keragaman spesies di taman nasional. Regresi Poisson digunakan karena variabel respons (jumlah keragaman spesies) adalah variabel diskrit dan dapat dianggap sebagai distribusi Poisson.
 * Geographically Weighted Poisson Regression (GWPR): Selanjutnya, dilakukan analisis GWPR untuk memperhitungkan adanya variasi spasial dalam hubungan tersebut. GWPR memperhitungkan kemungkinan terjadinya pola spasial dan memodelkannya secara lokal di setiap lokasi pengamatan.
 * Analisis Klaster: Dilakukan analisis klaster terhadap kategori spesies, seperti mammalia, aves, reptilia, dan lainnya, untuk mengidentifikasi pola kelompok yang ada dalam data berdasarkan karakteristik spesies.
+
+Lomba TECHFEST Big Data Competition (Tim SERRRRRRR)
